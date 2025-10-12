@@ -13,14 +13,14 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jose Sanchez | Founder of joluAI - Autonomous AI COO",
-  description: "Jose Sanchez is a polymath, software engineer, and founder of joluAI—an autonomous AI operator that runs company backends: emails, meetings, and decisions. AI COO that never forgets, never sleeps, and always optimizes.",
-  keywords: ["Jose Sanchez", "joluAI", "AI COO", "autonomous AI", "AI operator", "software engineer", "founder", "AI automation", "business automation"],
+  title: "Jose Sanchez | Polymath | Founder of joluAI - Autonomous AI COO",
+  description: "Jose Sanchez is a polymath exploring the intersection of technology, philosophy, and business. Software engineer and founder of joluAI—an autonomous AI operator that runs company backends: emails, meetings, and decisions. AI COO that never forgets, never sleeps, and always optimizes.",
+  keywords: ["Jose Sanchez", "polymath", "joluAI", "AI COO", "autonomous AI", "AI operator", "software engineer", "founder", "AI automation", "business automation", "technology philosophy", "interdisciplinary"],
   authors: [{ name: "Jose Sanchez" }],
   creator: "Jose Sanchez",
   openGraph: {
-    title: "Jose Sanchez | Founder of joluAI",
-    description: "Building joluAI—an autonomous AI operator that runs your company's backend. Emails, meetings, decisions.",
+    title: "Jose Sanchez | Polymath | Founder of joluAI",
+    description: "Polymath exploring technology, philosophy, and business. Building joluAI—an autonomous AI operator that runs your company's backend. Emails, meetings, decisions.",
     url: "https://copydataai.com",
     siteName: "Jose Sanchez",
     locale: "en_US",
@@ -28,8 +28,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Jose Sanchez | Founder of joluAI",
-    description: "Building joluAI—an autonomous AI operator that runs your company's backend. Like an AI COO that never forgets.",
+    title: "Jose Sanchez | Polymath | Founder of joluAI",
+    description: "Polymath exploring technology, philosophy, and business. Building joluAI—an autonomous AI operator that runs your company's backend.",
     creator: "@copydataaireal",
   },
   robots: {
