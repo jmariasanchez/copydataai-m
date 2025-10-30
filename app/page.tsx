@@ -5,21 +5,21 @@ export default function Home() {
         <h1 className="text-5xl font-bold text-black mb-6">
           Jose Sanchez
         </h1>
-        
+
         <p className="text-xl text-gray-800 leading-relaxed mb-8">
           Polymath. Software Engineer. Founder.
         </p>
-        
+
         <p className="text-lg text-gray-600 leading-relaxed mb-8">
-          Building joluAI—an autonomous AI operator that runs your company's backend. 
-          Emails, meetings, decisions. Like an AI COO that never forgets, never sleeps, 
+          Building joluAI—an autonomous AI operator that runs your company's backend.
+          Emails, meetings, decisions. Like an AI COO that never forgets, never sleeps,
           and always optimizes.
         </p>
-        
+
         <div className="flex gap-6 text-sm">
-          <a 
-            href="https://joluai.com" 
-            target="_blank" 
+          <a
+            href="https://joluai.com"
+            target="_blank"
             rel="noopener noreferrer"
             className="text-gray-800 hover:text-black underline underline-offset-4 transition-colors"
           >
@@ -56,6 +56,14 @@ export default function Home() {
               <path d="M18.244 2.25h3.308l-7.228 8.26 8.487 11.24H16.18l-5.35-6.99-6.12 6.99H1.4l7.73-8.83L.9 2.25h7.02l4.82 6.35 5.504-6.35Zm-1.158 19.5h1.833L6.996 4.12H5.03l12.057 17.63Z" />
             </svg>
             <span>X</span>
+          </a>
+          <a
+            href="/blog"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 text-gray-800 hover:text-black underline underline-offset-4 transition-colors"
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" className="size-4"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" /><path d="M8 11h8" /><path d="M8 7h6" /></svg>
+            <span>Blog</span>
           </a>
         </div>
       </div>
