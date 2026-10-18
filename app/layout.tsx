@@ -15,9 +15,9 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://copydataai.com"),
-  title: "Jose Sanchez | Polymath | Founder of joluAI - Autonomous AI COO",
-  description: "Jose Sanchez is a polymath exploring the intersection of technology, philosophy, and business. Software engineer and founder of joluAI—an autonomous AI operator that runs company backends: emails, meetings, and decisions. AI COO that never forgets, never sleeps, and always optimizes.",
-  keywords: ["Jose Sanchez", "polymath", "joluAI", "AI COO", "autonomous AI", "AI operator", "software engineer", "founder", "AI automation", "business automation", "technology philosophy", "interdisciplinary"],
+  title: "Jose Sanchez | Software Engineer | Founder of joluAI",
+  description: "Jose Sanchez is a software engineer and founder of joluAI—an autonomous AI operator that runs company backends: emails, meetings, and decisions.",
+  keywords: ["Jose Sanchez", "joluAI", "AI COO", "autonomous AI", "AI operator", "software engineer", "founder", "AI automation", "business automation"],
   authors: [{ name: "Jose Sanchez" }],
   creator: "Jose Sanchez",
   robots: {

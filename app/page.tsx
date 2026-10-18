@@ -2,18 +2,21 @@ export default function Home() {
   return (
     <main className="min-h-screen flex items-center justify-center bg-white px-6">
       <div className="max-w-2xl">
-        <h1 className="text-5xl font-bold text-black mb-6">
-          Jose Sanchez
-        </h1>
+        <h1 className="text-5xl font-bold text-black mb-6">Jose Sanchez</h1>
 
-        <p className="text-xl text-gray-800 leading-relaxed mb-8">
-          Polymath. Software Engineer. Founder.
-        </p>
+        <p className="text-xl text-gray-800 leading-relaxed mb-8">Engineer.</p>
 
         <p className="text-lg text-gray-600 leading-relaxed mb-8">
-          Building joluAI—an autonomous AI operator that runs your company's backend.
-          Emails, meetings, decisions. Like an AI COO that never forgets, never sleeps,
-          and always optimizes.
+          Building{" "}
+          <a
+            href="https://joluai.com"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="underline underline-offset-4 hover:text-black transition-colors"
+          >
+            joluAI
+          </a>
+          —an autonomous AI operator that runs your company's backend.
         </p>
 
         <div className="flex gap-6 text-sm">
@@ -62,7 +65,22 @@ export default function Home() {
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 text-gray-800 hover:text-black underline underline-offset-4 transition-colors"
           >
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="size-4"><path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" /><path d="M8 11h8" /><path d="M8 7h6" /></svg>
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              strokeWidth="2"
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              className="size-4"
+            >
+              <path d="M4 19.5v-15A2.5 2.5 0 0 1 6.5 2H19a1 1 0 0 1 1 1v18a1 1 0 0 1-1 1H6.5a1 1 0 0 1 0-5H20" />
+              <path d="M8 11h8" />
+              <path d="M8 7h6" />
+            </svg>
             <span>Blog</span>
           </a>
         </div>

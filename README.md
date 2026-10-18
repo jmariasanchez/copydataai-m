@@ -1,7 +1,8 @@
-# Jose Sanchez
+# copydataai (archived)
 
-Polymath. Software Engineer. Founder.
+This Next.js repo no longer serves copydataai.com.
 
-Building joluAI—an autonomous AI operator that runs your company's backend. Emails, meetings, decisions. Like an AI COO that never forgets, never sleeps, and always optimizes.
+The site now lives in the `jmariasanchez` monorepo at `apps/copy` (Astro), together with the founder site. The one post here, `content/posts/code-falls.mdx`, was ported to `apps/copy/src/content/notes/how-to-take-over-again.md`.
 
-Visit: [copydataai.com](https://copydataai.com)
+- Source of truth: https://github.com/jmariasanchez/jmariasanchez
+- Live: https://copydataai.com
